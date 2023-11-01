@@ -1,0 +1,10 @@
+^C:\KAPJEL\CATCHAPP_STORE\CATCHAPPSTORE\BUILD\WINDOWS\CMAKEFILES\35BB2540C56E475186BEB536E0F7C0E9\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

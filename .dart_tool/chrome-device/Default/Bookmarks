@@ -1,0 +1,36 @@
+{
+   "checksum": "57d45ef25b4b6413cf65eb800c5cc58f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13340139096776759",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Könyvjelzősáv",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13340139096776760",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "További könyvjelzők",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13340139096776762",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobilos könyvjelzők",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

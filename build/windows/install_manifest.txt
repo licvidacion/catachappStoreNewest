@@ -1,0 +1,11 @@
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/icudtl.dat
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/flutter_windows.dll
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/kapjEl/catchapp_store/catchappstore/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
